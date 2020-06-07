@@ -207,7 +207,7 @@ def help():
                     'image1': "https://www.google.com/search?q=picture&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjssMSFv-TpAhWPhHIEHTB9BJcQ_AUoAXoECCQQAw&biw=1280&bih=610&dpr=1.5",
                     'image2': "https://img2.cohimg.net/is/image/Coach/91022_imcah_a0?$plpMob$",
                 },
-                headers={'api-key': 'quickstart-QUdJIGlzIGNvbWluZy4uLi4K'})
+                headers={'api-key': 'Your own API Key'})
     try:
         if r.json()['output']['distance']<=30:
             print("yes")
