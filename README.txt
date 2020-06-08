@@ -34,7 +34,7 @@ To run this project, you need to:
 
 
 **Demo**
-	The coach.docx file is a demo for this project. It runs through "https://www.coachoutlet.com/shop/event-handbags-handbags-shoulder-bags?searchkeyword=Shoulder+Bags&qcat=text_header" and "https://www.coach.com/shop/women-handbags-shoulder-bags," which are the sub-websites that show the results of the women's handbags. And I'm using the similarity <15.
+	The coachresult.docx file is a demo for this project. It runs through "https://www.coachoutlet.com/shop/event-handbags-handbags-shoulder-bags?searchkeyword=Shoulder+Bags&qcat=text_header" and "https://www.coach.com/shop/women-handbags-shoulder-bags," which are the sub-websites that show the results of the women's handbags. And I'm using the similarity <15.
 	For each group of products, the first product is the coach bag and the latter ones are the coach outlet bags that are similar to this one.  For each product, it first shows a picture of the product, then the name and price of it, and finally a link to buy it and how similar it is to the original product. At the end of each group of products, there will be a line of "--------------------------The end-------------------------------."
 
 
